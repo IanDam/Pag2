@@ -36,4 +36,3 @@ st.image(descri6)
 st.image(descri7)
  
 
-st.write("[link](https://colab.research.google.com/drive/1zZ88UcZAV6uldqx_kTjnwlyhT6iktB09#scrollTo=8KNX78rFum6r) entrenamiento modelo")
